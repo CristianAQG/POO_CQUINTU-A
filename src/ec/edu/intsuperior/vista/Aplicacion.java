@@ -8,7 +8,7 @@ public class Aplicacion {
         ClaseA.caminar();
         ClaseA obj= new ClaseA();
         obj.vacilar();
-        System.out.println((obj.estudiar));
+        
         
     }
 }
